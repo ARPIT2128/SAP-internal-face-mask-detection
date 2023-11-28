@@ -1,2 +1,4 @@
 # SAP-internal-face-mask-detection
-face-mask-dataset link and follow up explaination - https://thecleverprogrammer.com/2020/11/17/face-mask-detection-with-machine-learning/
+## DATASETS LINKS
+Face Mask Dataset - https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset/data
+DETECTION_IMAGES -  https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
