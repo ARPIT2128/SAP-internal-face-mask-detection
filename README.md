@@ -26,9 +26,6 @@ This project focuses on detecting face masks using a combination of YOLOv8 for f
 2. Run the script.
 3. The detection window will display live webcam feed with face mask detection.
 
-## 📊 Results
-Check the `DETECTION_IMAGES` folder for sample images with face mask detection.
-
 ## 📈 Evaluation
 The training history and evaluation plots are available in the `face-mask.csv` file.
 
@@ -36,11 +33,11 @@ The training history and evaluation plots are available in the `face-mask.csv` f
 
 | **Training and Validation Loss** | **Training and Validation Accuracy** |
 |:-------------------------:|:-------------------------:|
-| ![Training and Validation Loss](figures/loss_plot.png) | ![Training and Validation Accuracy](figures/accuracy_plot.png) |
+| <img src="figures/loss_plot.png" alt="Training and Validation Loss"> | <img src="figures/accuracy_plot.png" alt="Training and Validation Accuracy"> |
 
 | **Training and Validation Precision** | **Training and Validation Recall** |
 |:-------------------------:|:-------------------------:|
-| ![Training and Validation Precision](figures/precision_plot.png) | ![Training and Validation Recall](figures/recall_plot.png) |
+| <img src="figures/precision_plot.png" alt="Training and Validation Precision"> | <img src="figures/recall_plot.png" alt="Training and Validation Recall"> |
 
 ## 🙌 Acknowledgments
 - YOLOv8: [Ultralytics](https://github.com/ultralytics/ultralytics)
