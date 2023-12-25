@@ -33,11 +33,11 @@ The training history and evaluation plots are available in the `face-mask.csv` f
 
 | **Training and Validation Loss** | **Training and Validation Accuracy** |
 |:-------------------------:|:-------------------------:|
-| <img src="figures/loss_plot.png" alt="Training and Validation Loss"> | <img src="figures/accuracy_plot.png" alt="Training and Validation Accuracy"> |
+| ![Loss Plot](https://github.com/ARPIT2128/SAP-internal-face-mask-detection/assets/93235104/024ba5ed-cd49-4eba-b99e-f0480af53709) | ![Accuracy Plot](https://github.com/ARPIT2128/SAP-internal-face-mask-detection/assets/93235104/01ac576e-8d52-4549-8ae3-fdfb9c2a04ef) |
 
 | **Training and Validation Precision** | **Training and Validation Recall** |
 |:-------------------------:|:-------------------------:|
-| <img src="figures/precision_plot.png" alt="Training and Validation Precision"> | <img src="figures/recall_plot.png" alt="Training and Validation Recall"> |
+| ![Precision Plot](https://github.com/ARPIT2128/SAP-internal-face-mask-detection/assets/93235104/284a0b6c-53bd-46f7-b7c5-b1ccddbe0a26) | ![Recall Plot](https://github.com/ARPIT2128/SAP-internal-face-mask-detection/assets/93235104/c7edf0c1-4fde-4c13-827f-e8de74768fff) |
 
 ## 🙌 Acknowledgments
 - YOLOv8: [Ultralytics](https://github.com/ultralytics/ultralytics)
